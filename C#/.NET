@@ -1,0 +1,10 @@
+using system;
+class program {
+static void Main()
+{
+int objetivo = 170;
+int produccion = 157;
+console.writeline(obetivo);
+console.writeline(produccion);
+}
+}
